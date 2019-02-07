@@ -1,0 +1,8 @@
+.container {
+    background-color: bisque;
+    border-block-end-style: dotted;
+}
+
+.panel-title {
+    border-block-end-style: double;
+}
