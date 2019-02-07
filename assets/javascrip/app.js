@@ -1,15 +1,15 @@
 $(document).ready(function () {
     // initialize firebase
 
-    var config = {
-        apiKey: "AIzaSyBbu1Zu2WRI3ljmYpQG0gmeqqJf0kJdSwk",
-        authDomain: "train-165af.firebaseapp.com",
-        databaseURL: "https://train-165af.firebaseio.com",
-        projectId: "train-165af",
-        storageBucket: "train-165af.appspot.com",
-        messagingSenderId: "173031357149"
-      };
-      firebase.initializeApp(config);
+    // var config = {
+    //     apiKey: "AIzaSyBbu1Zu2WRI3ljmYpQG0gmeqqJf0kJdSwk",
+    //     authDomain: "train-165af.firebaseapp.com",
+    //     databaseURL: "https://train-165af.firebaseio.com",
+    //     projectId: "train-165af",
+    //     storageBucket: "train-165af.appspot.com",
+    //     messagingSenderId: "173031357149"
+    //   };
+    //   firebase.initializeApp(config);
 
    
     var database = firebase.database();
